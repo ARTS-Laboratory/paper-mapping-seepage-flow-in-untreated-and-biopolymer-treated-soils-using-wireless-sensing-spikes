@@ -1,4 +1,4 @@
-# Paper_Mapping-Seepage-Flow-in-Untreated-and-Biopolymer-Treated-Soils-Using-Wireless-Sensing-Spikes
+# Code for paper "Mapping Seepage Flow in Untreated and Biopolymer Treated Soils Using Wireless Sensing Spikes"
 This folder contains code, data, and plots for 1D kriging for different soil compositions for the paper ICBBG 2025.
 
 * **data**: This folder has raw data named "Three Experiments used_To Mechanical_V2". Here are also three post-processed data for analysis:

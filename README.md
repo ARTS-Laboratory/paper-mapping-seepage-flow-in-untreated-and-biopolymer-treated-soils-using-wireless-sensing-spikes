@@ -11,3 +11,5 @@ This folder contains code, data, and plots for 1D kriging for different soil com
 * **plot_2D_5spike_data.py**: This code is used for 2D plotting during voltage vs Time (also to show specific time stamps (TS)).
 
 * **kriging_1D_compactedsand.py**: This is 1D kriging code for compacted sand soil composition.
+* **kriging_1D_Biopolymers.py**: This is 1D kriging code for 0.5% XG Biopolymers soil composition.
+* **kriging_1D_Slit.py**: This is 1D kriging code for 10% Silt soil composition.
